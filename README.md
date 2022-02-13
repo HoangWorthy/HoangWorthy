@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Spotify](https://hoangworthy.vercel.app//api/spotify)]
+[![Spotify](https://hoangworthy.vercel.app/api/spotify)]
 
 <!---
 HoangWorthy/HoangWorthy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
