@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xtdgdqiepvjepxbwdbczdh5gg&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=xtdgdqiepvjepxbwdbczdh5gg&cover_image=true&theme=default" width="350">]
+(https://github.com/kittinan/spotify-github-profile)
 
 <!---
 HoangWorthy/HoangWorthy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
