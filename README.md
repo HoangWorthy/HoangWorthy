@@ -20,7 +20,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python   10 mins         █████████████▒░░░░░░░░░░░   52.72 % 
-HTML     9 mins          ███████████▓░░░░░░░░░░░░░   47.14 % 
+HTML     5 mins          ████████████████████████▒   97.60 % 
 ```
 <!--END_SECTION:waka-->
