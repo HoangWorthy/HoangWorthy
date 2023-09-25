@@ -19,13 +19,4 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-
-```txt
-HTML           2 hrs 59 mins   ███████████████░░░░░░░░░░   60.14 %
-CSS            46 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
-SQL            25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-JavaScript     21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Ezhil          14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-```
-
 <!--END_SECTION:waka-->
