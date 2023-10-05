@@ -21,8 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SQL    51 mins         ███████████████████████▓░   94.93 %
-HTML   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
