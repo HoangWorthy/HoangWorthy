@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#                                 1 hr 11 mins    ████████▒░░░░░░░░░░░░░░░░   33.17 %
-TypeScript                         55 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
-JavaScript                         53 mins         ██████░░░░░░░░░░░░░░░░░░░   24.63 %
-Microsoft Visual Studio Solution   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-XML                                7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+C#                                 1 hr 11 mins    ████████████████▒░░░░░░░░   64.72 %
+TypeScript                         16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+Microsoft Visual Studio Solution   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+XML                                5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+JSON                               2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->
