@@ -21,11 +21,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript                         22 hrs 40 mins  ███████████████████████▒░   92.94 %
-C#                                 49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-XAML                               32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Other                              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Microsoft Visual Studio Solution   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+JavaScript   17 hrs 45 mins  ████████████████████████▓   98.24 %
+C#           15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
