@@ -21,11 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              1 hr 35 mins    ████████▓░░░░░░░░░░░░░░░░   34.00 %
-C#                53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
-JavaScript        51 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
-Docker            18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Binary            13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
