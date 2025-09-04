@@ -52,6 +52,9 @@ I am **Đặng Minh Hoàng**, a developer with a strong focus on building reliab
 ![](https://github-contributor-stats.vercel.app/api?username=HoangWorthy&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
 ---
+
+# ⏱️ WakaTime Stats
+Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--START_SECTION:waka-->
 
