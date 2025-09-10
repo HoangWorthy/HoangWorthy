@@ -59,10 +59,11 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   9 mins          ███████████████▓░░░░░░░░░   62.73 %
-JavaScript   5 mins          ████████▓░░░░░░░░░░░░░░░░   34.66 %
-Java         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown     44 mins         █████████████████░░░░░░░░   68.58 %
+SSH Config   9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
+JavaScript   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+YAML         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
