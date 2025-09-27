@@ -59,11 +59,11 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-Java                27 hrs 4 mins   ███████████████████░░░░░░   76.22 %
-YAML                1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Bash                1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-XML                 1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Java Properties     1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Java                29 hrs 1 min    ██████████████████░░░░░░░   71.90 %
+TypeScript          1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+XML                 1 hr 53 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+YAML                1 hr 47 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+Java Properties     1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
 ```
 
 <!--END_SECTION:waka-->
