@@ -59,9 +59,11 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-Java   4 mins          █████████████████▓░░░░░░░   70.15 %
-SQL    1 min           ███████▒░░░░░░░░░░░░░░░░░   29.73 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Java         1 hr 37 mins    ███████████████████████▒░   92.99 %
+Markdown     7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
