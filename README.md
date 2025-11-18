@@ -59,11 +59,11 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-Java           8 hrs 9 mins    █████████████████░░░░░░░░   67.52 %
-Markdown       2 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
-HTML           47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-TOML           19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-SQL            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Java           5 hrs 35 mins   ███████████████████████▓░   94.24 %
+SQL            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+HTML           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Bash           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+XML            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
