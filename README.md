@@ -59,11 +59,7 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-Docker            14 mins         ███████████░░░░░░░░░░░░░░   43.65 %
-Bash              13 mins         ██████████▒░░░░░░░░░░░░░░   41.68 %
-Java              2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-textmate          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-YAML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
