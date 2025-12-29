@@ -59,11 +59,8 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              20 mins         █████████████████████████   99.95 %
-textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-.env file         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Docker            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java        20 mins         █████████████████████████   99.98 %
+.env file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
