@@ -59,8 +59,7 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   12 mins         ████████████████▒░░░░░░░░   65.60 %
-C#           6 mins          ████████▓░░░░░░░░░░░░░░░░   34.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
