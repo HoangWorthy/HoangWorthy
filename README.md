@@ -59,11 +59,11 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 29 mins         █████████████████████▓░░░   86.18 %
-Markdown     24 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-JSON         13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-GDScript3    4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-CSHTML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+TypeScript   4 hrs 29 mins         ██████████████████▒░░░░░░   72.85 %
+Markdown     47 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+PlantUML     34 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+JSON         13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+GDScript3    4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
