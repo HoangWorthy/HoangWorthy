@@ -59,11 +59,11 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-PlantUML     1 hr 5 mins           ██████████▒░░░░░░░░░░░░░░   40.75 %
-Binary       41 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
-Markdown     22 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
-CSHTML       18 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-C#           5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Binary       41 mins               ██████████▒░░░░░░░░░░░░░░   40.94 %
+PlantUML     29 mins               ███████░░░░░░░░░░░░░░░░░░   28.57 %
+CSHTML       18 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
+C#           5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+JSON         3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
