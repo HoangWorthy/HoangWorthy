@@ -59,7 +59,11 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              1 hr 30 mins          ███████████▒░░░░░░░░░░░░░   45.53 %
+PlantUML          43 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
+SQL               30 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
+Markdown          13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Java Properties   12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
 ```
 
 <!--END_SECTION:waka-->
