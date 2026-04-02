@@ -59,11 +59,11 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-Binary           42 mins               ███████░░░░░░░░░░░░░░░░░░   27.46 %
-C#               29 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
-CSHTML           23 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
-GDScript3        14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-Unity3D Asset    13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+GDScript3        6 mins                █████████████▒░░░░░░░░░░░   53.93 %
+TypeScript       4 mins                ██████████░░░░░░░░░░░░░░░   39.73 %
+Godot Resource   0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Markdown         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Other            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
