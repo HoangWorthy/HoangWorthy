@@ -59,10 +59,7 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript3        6 mins                ██████████████████████▒░░   89.47 %
-Godot Resource   0 secs                ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-Markdown         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Other            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+GDScript3   5 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
