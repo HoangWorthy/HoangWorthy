@@ -59,7 +59,11 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     47 mins               ███████████████░░░░░░░░░░   60.27 %
+YAML         7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+Dart         7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+JSON         5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+Other        4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
 ```
 
 <!--END_SECTION:waka-->
