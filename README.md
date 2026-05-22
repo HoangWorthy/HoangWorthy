@@ -59,11 +59,11 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 55 mins         █████████▓░░░░░░░░░░░░░░░   38.68 %
-Markdown     2 hrs 15 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
-Other        1 hr 16 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-JSON         42 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-Dart         35 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+TypeScript        4 hrs 30 mins         ████████▒░░░░░░░░░░░░░░░░   33.28 %
+Markdown          3 hrs 3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
+YAML              1 hr 4 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+C#                45 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Dart              43 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
 ```
 
 <!--END_SECTION:waka-->
