@@ -59,11 +59,11 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          1 hr 48 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
-C#                1 hr 44 mins          ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-Binary            1 hr 8 mins           ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-Dart              1 hr 3 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-Other             26 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Markdown          1 hr 48 mins          ██████████▓░░░░░░░░░░░░░░   42.58 %
+Dart              1 hr 3 mins           ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
+Other             26 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+Kotlin            12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+YAML              11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
