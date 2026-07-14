@@ -59,11 +59,11 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          2 hrs                 █████████▒░░░░░░░░░░░░░░░   36.73 %
-Dart              1 hr 24 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
-Other             32 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-PowerShell        20 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Kotlin            12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Dart              7 hrs 9 mins          ██████████▒░░░░░░░░░░░░░░   41.33 %
+PowerShell        3 hrs 11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
+Markdown          3 hrs 8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
+Other             1 hr 35 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+YAML              34 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
