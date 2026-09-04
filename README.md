@@ -59,10 +59,7 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   20 mins               ██████████████████░░░░░░░   71.96 %
-Python     8 mins                ███████░░░░░░░░░░░░░░░░░░   28.03 %
-JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-YAML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
