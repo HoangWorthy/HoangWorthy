@@ -59,11 +59,11 @@ Here’s a breakdown of my recent coding activity, powered by **WakaTime**:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   4 mins                ███████████████████▓░░░░░   78.72 %
-YAML       1 min                 █████▒░░░░░░░░░░░░░░░░░░░   21.27 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown   47 mins               █████████████▓░░░░░░░░░░░   54.23 %
+PlantUML   38 mins               ███████████░░░░░░░░░░░░░░   44.25 %
+YAML       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
